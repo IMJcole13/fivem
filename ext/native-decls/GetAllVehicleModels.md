@@ -1,7 +1,7 @@
 ---
 ns: CFX
 apiset: client
-game: gta5
+game: gta5 Rollplay
 ---
 ## GET_ALL_VEHICLE_MODELS
 
